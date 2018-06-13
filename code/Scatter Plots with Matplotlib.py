@@ -3,6 +3,8 @@
 
 # url: https://pythonprogramming.net/scatter-plot-matplotlib-tutorial/
 
+# https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html#matplotlib.pyplot.scatter
+
 # bar charts
 import matplotlib.pyplot as plt
 x=list(range(1,9))
